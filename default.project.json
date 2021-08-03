@@ -1,0 +1,21 @@
+{
+  "name": "TextBoxPlus",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+        "$className": "ReplicatedStorage",
+        "TextBoxPlus": {
+          "$path": "src/TextBoxPlus"
+        }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}
